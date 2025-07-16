@@ -1,7 +1,9 @@
 # Simple MCP Server & Client
 
 I wanted to learn Model Context Protocol. I failed a bunch of times. The I asked Claude for help. I finally succeeded. Thanks Claude. Claude even wrote this README bc I'm not really that smart. 🙂
-=========================
+
+---
+
 A straightforward implementation of the Model Context Protocol (MCP) in Python, featuring a server with basic mathematical and file operations, and an interactive client.
 
 ## 🚀 Features
