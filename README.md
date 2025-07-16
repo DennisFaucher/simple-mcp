@@ -4,7 +4,7 @@ I wanted to learn Model Context Protocol. I failed a bunch of times. Then I aske
 
 Just in case this AI README is wonky,
 - Run mcp-server.py in one terminal session
-- Run mcp_client from another terminal
+- Run mcp_client in another terminal
 - Both need to be run from the simple-mcp folder
 
 ---
