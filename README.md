@@ -1,6 +1,6 @@
 # Simple MCP Server & Client
 
-I wanted to learn Model Context Protocol. I failed a bunch of times. The I asked Claude for help. I finally succeeded. Thanks Claude. Claude even wrote this README bc I'm not really that smart. 🙂
+I wanted to learn Model Context Protocol. I failed a bunch of times. Then I asked Claude for help. I finally succeeded. Thanks Claude. Claude even wrote this README bc I'm not really that smart. 🙂
 
 ---
 
