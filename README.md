@@ -3,7 +3,7 @@
 I wanted to learn Model Context Protocol. I failed a bunch of times. Then I asked Claude for help. I finally succeeded. Thanks Claude. Claude even wrote this README bc I'm not really that smart. 🙂
 
 Just in case this AI README is wonky,
-- Run mcp-server.py in one terminal session
+- Run mcp_server.py in one terminal session
 - Run mcp_client in another terminal
 - Both need to be run from the simple-mcp folder
 
